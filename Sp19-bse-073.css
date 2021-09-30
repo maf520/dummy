@@ -1,0 +1,130 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+#whole{
+	height: 100vh;
+	width: 100%;
+	background-color: green;
+}
+header{
+	height: 90px;
+	width: 100%;
+}
+#heading{
+	width: 90%;
+	height: 90px;
+	background-color: #333333;
+	float: left;
+	text-align: center;
+	line-height: 90px;
+}
+#icon{
+	width: 10%;
+	height: 90px;
+	background-color: #333333;
+	float: right;
+	line-height: 90px;
+}
+h1{
+	font-family: 'Roboto', sans-serif;
+	
+}
+hr{
+	background-color: yellow;
+
+}
+button{
+	height: 90px;
+	width: 150px;
+	border: none;
+
+}
+#adminID{
+	width: 150px;
+}
+#left{
+	width: 20%;
+	height: 100vh;
+	background-color: #666666;
+	float: left;
+	border: 1px;
+	border: solid;
+	border-color: black;
+}
+#right{
+		width: 80%;
+	height: 100vh;
+	background-color: #333333;
+	float: right;
+}
+.buttons{
+	margin-left: 60px;
+	background-color: #4A1231;
+	width: 100px;
+	text-align: center;
+	border: 1px;
+	border: solid;
+	position: absolute;
+}
+.b5{
+	position: absolute;
+	background-color: #A2C3C8;
+	margin-left: 400px;
+	margin-top: 200px;
+	border-radius: 50px;
+}
+.b1{
+	position: absolute;
+	background-color: #A2C3C8;
+	margin-left: 100px;
+	margin-top: 100px;
+	border-radius: 50px;
+}
+.b2{
+	position: absolute;
+	background-color: #A2C3C8;
+	margin-left: 400px;
+	margin-top: 100px;
+	border-radius: 50px;
+}
+.b3{
+	position: absolute;
+	background-color: #A2C3C8;
+	margin-left: 700px;
+	margin-top: 100px;
+	border-radius: 50px;
+}
+.b4{
+	position: absolute;
+	background-color: #A2C3C8;
+	margin-left: 100px;
+	margin-top: 200px;
+	border-radius: 50px;
+}
+.b6{
+	position: absolute;
+	background-color: #A2C3C8;
+	margin-left: 700px;
+	margin-top: 200px;
+	border-radius: 50px;
+}
+.b7{
+	position: absolute;
+	background-color: #A2C3C8;
+	margin-left: 100px;
+	margin-top: 300px;
+	border-radius: 50px;
+}
+.b8{
+	position: absolute;
+	background-color: #A2C3C8;
+	margin-left: 400px;
+	margin-top: 300px;
+	border-radius: 50px;
+}
+
